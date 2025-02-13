@@ -54,7 +54,7 @@ http://localhost/bookstore/
 
 **Sahil Khurana**  
 📧 [Your Email]  
-🔗 [GitHub Profile](https://github.com/sahilkhurana01)  
+🔗 [sahilkhurana01](https://github.com/sahilkhurana01)  
 
 ---  
 
